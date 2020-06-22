@@ -1,1 +1,2 @@
-# Lambda_project
+# Lambda_project(Sudoku game)
+
