@@ -23,6 +23,7 @@ class Sudoku:
     def __init__(self):
         pygame.init()
         self.DISPLAYSURF = pygame.display.set_mode((WINDOWWIDTH,WINDOWHEIGHT));
+        pygame.display.set_caption("Sudoku")
         self.mouseClicked = None
         self.mousePos = None
         self.finished = False
